@@ -1,0 +1,27 @@
+body {
+   background: rgba(20, 189, 231, 0.349); 
+   font: normal 20pt Arial;
+}
+
+header {
+    font: normal 10pt Arial;
+}
+
+section {
+    border-radius: 20px ;
+    width: 400px;
+    margin: auto;
+    box-shadow: 20px;
+    padding: 20px;
+    color: black;
+}
+
+div {
+    font: normal 10pt Arial;
+}
+
+footer{
+    font: normal 10pt Arial;
+    font-style: italic;
+    color: rgb(12, 12, 95);
+}
